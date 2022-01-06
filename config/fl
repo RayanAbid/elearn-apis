@@ -1,0 +1,26 @@
+// congig.js
+{
+  "development": {
+    "username": "u4szoztew7yt1abn",
+    "password": "uwTShNidLIlDCrx6M5Hi",
+    "database": "btjzjewhg3mylxmforbh",
+    "host": "btjzjewhg3mylxmforbh-mysql.services.clever-cloud.com",
+    "dialect": "mysql",
+    "port": "3306"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "u4szoztew7yt1abn",
+    "password": "uwTShNidLIlDCrx6M5Hi",
+    "database": "btjzjewhg3mylxmforbh",
+    "host": "btjzjewhg3mylxmforbh-mysql.services.clever-cloud.com",
+    "dialect": "mysql",
+    "port": "3306"
+  }
+}
